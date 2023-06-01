@@ -51,32 +51,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/l4c1f2r' //Link Instagrammu
-global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sig = 'https://instagram.com/al_vin.233' //Link Instagrammu
+global.sgh = 'https://github.com/Raya2399' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/LJG0yttxW2s0vUpot1VHWI'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.syt = 'https://youtube.com/@alwanganzofficial7125'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '083863727401' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
-global.pgopay = '083863727401'
-global.povo = '083863727401'
-global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081332995497' //Nomor Danamu
+global.ppulsa = '081332995497' //Nomor SimCard Yang Kamu Pake
+global.pgopay = '081332995497'
+global.povo = '-'
+global.psaweria = 'https://saweria.co/Rimuru233' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
-global.tautanwa = 'https://api.whatsapp.com/send?phone=+6283863727401' //kalau bisa link wa bisnis kalian
+global.nomorbot = '6281351276136' //Nomor Bot
+global.nomorown = '6281345407953' //Nomor Owner
+global.namebot = 'Fin Md' //Nama Bot
+global.nameown = '༄ᶜFin Ofc☆࿐' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6281345407953'
+global.tautanwa = 'https://api.whatsapp.com/send?phone=+6281345407953' //kalau bisa link wa bisnis kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281345407953', '❦ ༄ᶜFin Ofc☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -151,13 +151,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᚯӃᶱᶮᶽᶲメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᚯӃᶱᶮᶽᶲメ฿Ø₮™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᚯӃᶱᶮᶽᶲメ฿Ø₮™'
-global.namedoc = 'ᚯӃᶱᶮᶽᶲメ' //Main Name Menu Document
+global.wm = '                「 Fin Md  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fin Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fin Md'
+global.namedoc = 'Fin Md' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ ᚯӃᶱᶮᶽᶲ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ Fin Md ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
@@ -165,7 +165,7 @@ global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄"
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/9d413f9598257e85d908e.jpg' //Main Thumbnail
 global.thumb2 = 'https://telegra.ph/file/18e367c67e13908302689.jpg'
-global.thumbbc = 'https://telegra.ph/file/05f874dc87f7e27fa8127.jpg' //For broadcast
+global.thumbbc = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg' //For broadcast
 global.giflogo = Anime()
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.flaaa2 = flaaa2Anu()
@@ -411,7 +411,7 @@ global.md = pickRandom(["_In progress, please wait..._", "Proses", "Tunggu Seben
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 838 6372 7401'
+global.phn = '+62 813 4540 7953'
 
 //Danied\\
 
@@ -463,7 +463,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nK\nE\nN\nZ\nO\n-\nB\nO\nT\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By '
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᚯӃᶱᶮᶽᶲ ʙᴏᴛᴢ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜰɪɴ ᴍᴅ ʙᴏᴛᴢ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
